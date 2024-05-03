@@ -2,20 +2,20 @@
 @import url('./font.css');
 
 /* Layout */
-@import url('/src/css/layout/header.css');
-@import url('/src/css/layout/footer.css');
+@import url('./src/css/layout/header.css');
+@import url('./src/css/layout/footer.css');
 
 
 /* Pages */
-@import url('/src/css/pages/home.css');
-@import url('/src/css/pages/dinamic.css');
-@import url('/src/css/pages/history.css');
-@import url('/src/css/pages/laws.css');
-@import url('/src/css/pages/vss.css');
-@import url('/src/css/pages/online_apply.css');
-@import url('/src/css/pages/letter.css');
-@import url('/src/css/pages/news.css');
-@import url('/src/css/pages/single_news.css');
-@import url('/src/css/pages/eaa.css');
-@import url('/src/css/pages/structure.css');
-@import url('/src/css/pages/management.css');
+@import url('./src/css/pages/home.css');
+@import url('./src/css/pages/dinamic.css');
+@import url('./src/css/pages/history.css');
+@import url('./src/css/pages/laws.css');
+@import url('./src/css/pages/vss.css');
+@import url('./src/css/pages/online_apply.css');
+@import url('./src/css/pages/letter.css');
+@import url('./src/css/pages/news.css');
+@import url('./src/css/pages/single_news.css');
+@import url('./src/css/pages/eaa.css');
+@import url('./src/css/pages/structure.css');
+@import url('./src/css/pages/management.css');
