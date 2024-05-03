@@ -14,7 +14,7 @@ ul {
 }
 
 footer {
-    background-image: url('/src/img/footer1.png');
+    background-image: url('./src/img/footer1.png');
     height: 242px;
     padding: 28px 0 10px 0;
     background-position: center;
