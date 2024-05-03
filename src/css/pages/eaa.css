@@ -1,0 +1,24 @@
+.eaa-table {
+    margin-bottom: 80px;
+}
+
+.eaa-table thead {
+    text-align: center;
+    background-color: #DEE2E6;
+    letter-spacing: 3px;
+
+}
+
+.eaa-table tbody {
+    text-align: center;
+}
+
+
+.eaa-table tbody tr th {
+    text-align: left;
+}
+
+.eaa-table tbody tr th a {
+    color: var(--menuColor);
+    font-weight: 500;
+}

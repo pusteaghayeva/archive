@@ -1,0 +1,10 @@
+:root {
+    --menuColor: rgba(26, 81, 134, 1);
+    --navLink: rgba(255, 255, 255, 1);
+    --fontFamily: "Roboto", sans-serif;
+    --newsColor: rgba(0, 0, 0, 1);
+    --newsBg: rgba(12, 124, 149, 1);
+    --greyColor: rgba(188, 199, 205, 1);
+    --mainTitle: rgb(4, 56, 104);
+    --newsTitles: #4e4848;
+}

@@ -1,0 +1,42 @@
+.structure_blog {
+    margin-bottom: 80px;
+}
+
+.structure_col{
+    position: relative;
+    border-radius: 5px;
+    background-image: url('/src/img/structure3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all .3s ease-in-out;
+    margin: 10px 0;
+}
+
+.structure_col:hover {
+    background-image: url('/src/img/structure3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    transform: scale(1.05);
+}
+
+.structure_abs{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--newsColor);
+    opacity: 1;
+    width: 100%;
+    height: 100%;
+}
+.structure_name{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 140px;
+    font-weight: 600;
+}
