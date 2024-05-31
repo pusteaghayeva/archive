@@ -19,6 +19,7 @@ footer {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    clear: both;
 }
 
 .social-blog {
@@ -216,14 +217,6 @@ footer {
     color: #fff;
     background-color: #009999;
 }
-
-
-
-
-
-
-
-
 
 @media only screen and (min-width: 992.01px) {
 
